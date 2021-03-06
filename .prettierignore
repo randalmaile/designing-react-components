@@ -1,0 +1,13 @@
+.next
+# Ignore artifacts:
+node_modules
+coverage
+dist
+lib
+.DS_Store
+package-lock.json
+
+# Ignore all HTML files:
+*.html
+*.jsx
+*.js
